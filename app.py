@@ -28,5 +28,4 @@ def clicked(x, y):
 
 cookie.onclick(clicked)
 
-
 wn.mainloop()
